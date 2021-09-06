@@ -19,3 +19,4 @@ paginate_path: "/page:num/"
 
 # Comment thread setting
 disqus_forumname: tranquil-theme
+theme: jekyll-theme-minimal
